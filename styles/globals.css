@@ -37,6 +37,6 @@ html::-webkit-scrollbar {
 
 input:-webkit-autofill {
   transition: background-color 9999s ease-in-out 0s;
-  -webkit-text-fill-color: #C3C4C5 !important;
-  color: #C3C4C5 !important;
+  -webkit-text-fill-color: #c3c4c5 !important;
+  color: #c3c4c5 !important;
 }
